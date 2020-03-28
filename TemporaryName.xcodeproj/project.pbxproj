@@ -15,6 +15,7 @@
 		396D4154242F80BC00247837 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 396D4152242F80BC00247837 /* LaunchScreen.storyboard */; };
 		396D415F242F80BD00247837 /* TemporaryNameTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 396D415E242F80BD00247837 /* TemporaryNameTests.swift */; };
 		396D416A242F80BD00247837 /* TemporaryNameUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 396D4169242F80BD00247837 /* TemporaryNameUITests.swift */; };
+		396D4178242FAA2E00247837 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 396D4177242FAA2E00247837 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		396D4165242F80BD00247837 /* TemporaryNameUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TemporaryNameUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		396D4169242F80BD00247837 /* TemporaryNameUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TemporaryNameUITests.swift; sourceTree = "<group>"; };
 		396D416B242F80BD00247837 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		396D4177242FAA2E00247837 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = ../LaunchScreen.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		396D413B242F80B800247837 = {
 			isa = PBXGroup;
 			children = (
+				396D4177242FAA2E00247837 /* LaunchScreen.storyboard */,
 				396D4146242F80B900247837 /* TemporaryName */,
 				396D415D242F80BD00247837 /* TemporaryNameTests */,
 				396D4168242F80BD00247837 /* TemporaryNameUITests */,
@@ -233,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				396D4154242F80BC00247837 /* LaunchScreen.storyboard in Resources */,
+				396D4178242FAA2E00247837 /* LaunchScreen.storyboard in Resources */,
 				396D4151242F80BC00247837 /* Assets.xcassets in Resources */,
 				396D414F242F80B900247837 /* Main.storyboard in Resources */,
 			);
